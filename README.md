@@ -1,6 +1,6 @@
 # 🏄‍♂️ Le Phuoc Loc
 
-**`AI Engineer` `AI Researcher`**
+**`Data Engineer`**
 
 
 ---
